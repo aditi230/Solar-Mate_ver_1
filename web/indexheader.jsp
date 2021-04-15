@@ -31,7 +31,7 @@
 				</ul>
 			</li>
 			<li><a href="#"><span>About Us</span></a></li>
-			<li><a href="#"><span>Contact Us</span></a></li>
+			<li><a href="contact_us.jsp"><span>Contact Us</span></a></li>
 			<li><span>Login</span>
 				<ul>
 					<li class="first"> <a href="candidatelogin.jsp">Candidate Login</a> </li>
